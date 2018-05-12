@@ -1,0 +1,43 @@
+_repo: Wreaths-of-Friendship--A-Gift-for-the-Young_16073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Arthur, T. S. (Timothy Shay)
+    aliases:
+    - Arthur, Timothy Shay
+    - Uncle Herbert
+    - Herbert, Uncle
+    birthdate: 1809
+    deathdate: 1885
+    gutenberg_agent_id: '1513'
+    url: http://www.gutenberg.org/2009/agents/1513
+    wikipedia: http://en.wikipedia.org/wiki/Timothy_Shay_Arthur
+  - agent_name: Woodworth, Francis C. (Francis Channing)
+    aliases:
+    - Woodworth, F. C. (Francis Channing)
+    - Thinker, Theodore
+    - Uncle Frank
+    - Woodworth, Francis Channing
+    birthdate: 1812
+    deathdate: 1859
+    gutenberg_agent_id: '6789'
+    url: http://www.gutenberg.org/2009/agents/6789
+description: ''
+gutenberg_issued: '2005-06-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Gift books'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+title: 'Wreaths of Friendship: A Gift for the Young'
+url: http://www.gutenberg.org/ebooks/16073
