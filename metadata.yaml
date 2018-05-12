@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '6789'
     url: http://www.gutenberg.org/2009/agents/6789
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16073#Wreaths-of-Friendship--A-Gift-for-the-Young
 gutenberg_issued: '2005-06-15'
 gutenberg_type: Text
 identifiers:
